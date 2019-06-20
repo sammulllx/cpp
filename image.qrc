@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pro">
+        <file>tail-top.jpg</file>
+    </qresource>
+</RCC>
